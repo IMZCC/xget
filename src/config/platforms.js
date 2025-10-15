@@ -39,6 +39,7 @@ export const PLATFORMS = {
   arxiv: 'https://arxiv.org',
   fdroid: 'https://f-droid.org',
   jenkins: 'https://updates.jenkins.io',
+  dockerhub: 'https://registry-1.docker.io',
 
   // AI Inference Providers
   'ip-openai': 'https://api.openai.com',
